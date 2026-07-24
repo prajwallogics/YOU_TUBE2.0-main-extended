@@ -1,3 +1,6 @@
 node_modules/
 uploads/
 .env
+.next/
+tsconfig.tsbuildinfo
+.env.local
